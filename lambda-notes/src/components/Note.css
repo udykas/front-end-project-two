@@ -1,0 +1,24 @@
+.note-container{
+    width: 100%;
+}
+
+.note-links{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.edit-delete{
+    margin: 5px;
+    color: #4A4A4A;
+    text-decoration: underline;
+}
+
+.view-note{
+    margin: 30px;
+    color: #4A4A4A;
+}
+
+.view-note h2{
+    font-weight: bold;
+    padding: 20px 0;
+}
